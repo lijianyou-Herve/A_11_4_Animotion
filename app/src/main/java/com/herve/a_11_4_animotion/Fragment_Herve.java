@@ -20,7 +20,7 @@ public class Fragment_Herve extends Fragment {
     LinearLayout view;
     TextView textView;
 
-
+        //////、、啊第三，你对面三
 
     @Nullable
     @Override
